@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35bf274a-94c7-45ba-923f-93d859e4e9a5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/MovieTicketing.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/home/views/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/public/container.php" afterPath="$PROJECT_DIR$/application/views/public/container.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/public/header.php" afterPath="$PROJECT_DIR$/application/views/public/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/home/controllers/home.php" afterPath="$PROJECT_DIR$/modules/home/controllers/home.php" />
     </list>
     <ignored path="MovieTicketing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,10 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/home/controllers/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="8" selection-start="121" selection-end="121" vertical-scroll-proportion="0.14333895" vertical-offset="0" max-vertical-offset="593">
+            <state line="5" column="0" selection-start="113" selection-end="113" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="476">
               <folding />
             </state>
           </provider>
@@ -68,10 +62,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/views/public/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="17" selection-start="340" selection-end="340" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="1071">
+            <state line="55" column="0" selection-start="2462" selection-end="2462" vertical-scroll-proportion="1.2900506" vertical-offset="170" max-vertical-offset="1037">
               <folding />
             </state>
           </provider>
@@ -93,6 +87,7 @@
         <option value="$PROJECT_DIR$/application/views/public/container.php" />
         <option value="$PROJECT_DIR$/modules/home/views/index.php" />
         <option value="$PROJECT_DIR$/modules/home/controllers/home.php" />
+        <option value="$PROJECT_DIR$/application/views/public/header.php" />
       </list>
     </option>
   </component>
@@ -348,13 +343,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/public/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="17" selection-start="340" selection-end="340" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="1071">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/public/container.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="36" selection-start="78" selection-end="78" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="153">
@@ -371,7 +359,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/home/controllers/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="8" selection-start="121" selection-end="121" vertical-scroll-proportion="0.14333895" vertical-offset="0" max-vertical-offset="593">
+        <state line="5" column="0" selection-start="113" selection-end="113" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/public/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="0" selection-start="2462" selection-end="2462" vertical-scroll-proportion="1.2900506" vertical-offset="170" max-vertical-offset="1037">
           <folding />
         </state>
       </provider>
