@@ -32,7 +32,7 @@
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                  <li><a href="#contact">Home</a></li>
+                  <li><a href="<?php echo base_url()?>index.php/home">Home</a></li>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Cinemas <b class="caret"></b></a>
                   <ul class="dropdown-menu">
@@ -50,7 +50,7 @@
                   <li><a href="#contact">Trailor</a></li>
                   <li><a href="#contact">Gallery</a></li>
                   <li><a href="#contact">Membership</a></li>
-                  <li><a href="#contact">Career</a></li>
+                  <li><a href="<?php echo base_url()?>index.php/career">Career</a></li>
                   <li><a href="#contact">Contact</a></li>
                   <li><a href="#contact">About Us</a></li>
               </ul>
