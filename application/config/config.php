@@ -14,7 +14,11 @@
 | path to your installation.
 |
 */
+<<<<<<< HEAD
 $config['base_url']	= 'http://localhost/movieTicketing/';
+=======
+$config['base_url']	= 'http://localhost/MovieTicketing/';
+>>>>>>> ebd137c6b0399c0954643ef17f902c7cf35af37d
 
 /*
 |--------------------------------------------------------------------------

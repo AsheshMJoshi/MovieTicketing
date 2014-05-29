@@ -1,5 +1,5 @@
 <?php
-class home extends Public_Controller{
+class career extends Public_Controller{
 
     public function __construct(){
         parent :: __construct();
