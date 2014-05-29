@@ -34,7 +34,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">BLOG</a>
+            <a class="navbar-brand" href="#">Movie</a>
         </div>
         <div class="collapse navbar-collapse">
 
