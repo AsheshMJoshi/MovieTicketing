@@ -34,7 +34,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Movie</a>
+            <a class="navbar-brand" href="#"><img src="<?php echo base_url();?>assets/image/icon.png"/></a>
         </div>
         <div class="collapse navbar-collapse">
 
