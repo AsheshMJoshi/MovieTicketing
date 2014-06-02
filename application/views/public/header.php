@@ -11,6 +11,11 @@
     <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css_new/bootstrap/docs/dist/css/bootstrap.min.css "/>
     <script type="text/javascript" src="<?php echo base_url()?>assets/js/jquery-1.10.2.js"></script>
     <script type="text/javascript" src="<?php echo base_url()?>assets/js/jquery-ui-1.10.4.custom.min.js"></script>
+    <!--banner ko lagi script-->
+    <link rel="stylesheet" href="<?php echo base_url()?>assets/banner/style.css" type="text/css" media="screen" />
+<!--    <script type="text/javascript">var _siteRoot='index.html',_root='index.html';</script>-->
+    <script type="text/javascript" src="<?php echo base_url()?>assets/banner/js/jquery.js"></script>
+    <script type="text/javascript" src="<?php echo base_url()?>assets/banner/js/scripts.js"></script>
 
     <!-- Custom styles for this template -->
     <link href="offcanvas.css" rel="stylesheet">
